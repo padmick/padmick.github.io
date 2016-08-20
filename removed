@@ -1,0 +1,297 @@
+    <div class="members-block">
+                <div class="row">
+                    <div class="item col-xs-6 col-md-3">
+                        <div class="item-inner">
+                            <div class="member-profile">
+                                <img class="img-responsive" src="assets/images/members/member-1.gif" alt="">
+                            </div><!--//member-profile-->
+                            <div class="member-label">Vocals</div>
+                            <h3 class="member-name">
+                                James McGregor
+                            </h3>
+                            <div class="member-desc">
+                                Drummer, ladies man and stylish fecker, theres nothing this man hasn't done. Voted no 1 in Mr Loughrea 2006.
+                            </div>
+                        </div><!--//item-inner-->
+                    </div><!--//item-->
+                    <div class="item col-xs-6 col-md-3">
+                        <div class="item-inner">
+                            <div class="member-profile">
+                                <img class="img-responsive" src="assets/images/members/member-2.gif" alt=""> 
+                            </div><!--//member-profile-->
+                            <div class="member-label">Guitar</div>
+                            <h3 class="member-name">
+                                Sean Connelly
+                            </h3>
+                            <div class="member-desc">
+                                The haircut of the band. Adored by fans and facebook stalkers worldwide. Mighty craic.
+                            </div>
+                        </div><!--//item-inner-->
+                    </div><!--//item-->
+                    <div class="clearfix visible-xs"></div>
+                    <div class="item col-xs-6 col-md-3">
+                        <div class="item-inner">
+                            <div class="member-profile">
+                                <img class="img-responsive" src="assets/images/members/member-3.gif" alt="">
+                                
+                            </div><!--//member-profile-->
+                            <div class="member-label">Bass</div>
+                            <h3 class="member-name">
+                                Diarmuid Prendragast
+                            </h3>
+                            <div class="member-desc">
+                                Honnestly dont know much about this guy... hes a mystery, well apart he's friends with Issac so there's that.
+                            </div>
+                        </div><!--//item-inner-->
+                    </div><!--//item-->
+                    <div class="item col-xs-6 col-md-3">
+                        <div class="item-inner">
+                            <div class="member-profile">
+                                <img class="img-responsive" src="assets/images/members/member-4.gif" alt="">
+                                
+                            </div><!--//member-profile-->
+                            <div class="member-label">Drums</div>
+                            <h3 class="member-name">
+                                Damian Greaney
+                            </h3>
+                            <div class="member-desc">
+                                Nobody knows why Damien is part of the band, owning several major oil rigs in the middle east. Some say its part of a plan to join westlife when they restart in a few years. Only time will tell.
+                            </div>
+                        </div><!--//item-inner-->
+                    </div><!--//item-->
+                </div><!--//row-->
+            </div><!--//members-block-->
+        </div><!--//container-->
+    </section><!--//about-section-->
+
+
+                    <div class="item col-xs-12 col-md-4">
+                        <div class="item-inner">
+                            <div class="icon-holder">
+                                <i class="fa fa-newspaper-o"></i>
+                            </div><!--//icon-holder-->
+                            <h4 class="title">Press</h4>
+                            <div class="email"><a href="#">press@somewebsite.com</a></div>
+                        </div><!--//item-inner-->
+                    </div><!--//item-->
+
+                    <div class="item col-xs-12 col-md-4">
+                        <div class="item-inner">
+                            <div class="icon-holder">
+                                <i class="fa fa-calendar-check-o"></i>
+                            </div><!--//icon-holder-->
+                            <h4 class="title">Booking</h4>
+                            <div class="email"><a href="#">booking@somewebsite.com</a></div>
+                        </div><!--//item-inner-->
+                    </div><!--//item-->
+
+
+                     <!-- *****CONFIGURE STYLE (REMOVE ON YOUR PRODUCTION SITE)****** -->  
+    <div id="config-panel" class="config-panel hidden-xs">
+        <div class="panel-inner">
+            <a id="config-trigger" class="config-trigger config-panel-hide" href="#"><i class="fa fa-sliders"></i></a>
+            <h5 class="panel-title">Choose Colour</h5>
+            <ul id="color-options" class="list-unstyled list-inline">
+                <li class="theme-1 active"><a data-style="assets/css/styles.css" href="#"></a></li>
+                <li class="theme-2"><a data-style="assets/css/styles-2.css" href="#"></a></li>
+                <li class="theme-3"><a data-style="assets/css/styles-3.css" href="#"></a></li>
+                <li class="theme-4"><a data-style="assets/css/styles-4.css" href="#"></a></li>                   
+                <li class="theme-5"><a data-style="assets/css/styles-5.css" href="#"></a></li>                     
+                <li class="theme-6"><a data-style="assets/css/styles-6.css" href="#"></a></li>
+                <li class="theme-7"><a data-style="assets/css/styles-7.css" href="#"></a></li>
+                <li class="theme-8"><a data-style="assets/css/styles-8.css" href="#"></a></li>                    
+                <li class="theme-9"><a data-style="assets/css/styles-9.css" href="#"></a></li>
+                <li class="theme-10"><a data-style="assets/css/styles-10.css" href="#"></a></li>
+            </ul>
+            <a id="config-close" class="close" href="#"><i class="fa fa-times-circle"></i></a>
+        </div><!--//panel-inner-->
+    </div><!--//configure-panel-->
+
+
+    <div class="item">
+                            <div class="media-holder">
+                                <div class="media-thumb">
+                                    <img src="assets/images/image-thumb-1.jpg" alt="">
+                                </div><!--//media-thumb-->
+                            </div><!--//media-holder-->
+                            <div class="carousel-content">
+                                <h3 class="title">Help to fund our (insert mad fundraising idea here) <a href="#">KickStarter</a></h3>
+                                <div class="desc">
+                                    <p class="intro">
+                                        Fundraisers are awesome, you can give someone the idea of owning something in the future but obtain their money now. <br><a href="#" class="more-link">More info</a>
+                                    </p><!--//intro-->
+                                </div><!--//desc-->
+                                <a class="btn btn-primary btn-cta" href="#">Support Us</a>
+                            </div><!--//content-container-->
+                        </div><!--//item-->
+                        
+
+                        <div class="item">
+                            <div class="carousel-content no-media-holder">
+                                <h3 class="title">We are performing at <a class="highlight" href="#">Padraic's house</a> everyday at 9pm</h3>
+                                <div class="desc">
+                                    <p class="intro">
+                                        Its gonna be as amazing as always. <br><a href="#" class="more-link" data-toggle="modal" data-target="#modal-info">Find out more</a>
+                                    </p><!--//intro-->
+                                </div><!--//desc-->
+                                <a class="btn btn-primary btn-cta" href="#">Buy Tickets</a>
+                            </div><!--//content-container-->
+                        </div><!--//item-->
+                        
+                        
+                <!-- Style Switcher (REMOVE ON YOUR PRODUCTION SITE) -->
+    <script src="assets/js/demo/style-switcher.js"></script>
+
+
+
+     <div class="item col-xs-6 col-md-4">
+                        <div class="item-inner">
+                             <h3 class="album-title">
+                            Something
+                            </h3>
+                            <div class="cover-holder">
+                                
+                                <a class="cover-figure" href="#">
+                                    <div class="record-holder"><img class="img-responsive" src="assets/images/record.png" alt=""></div>
+                                    <img class="cover-image img-responsive" src="assets/images/albums/album-cover-4.jpg" alt="">
+                                </a><!--//cover-figure-->
+
+                                <a href="#" class="btn btn-sm btn-secondary">Buy Album</a>
+                               
+                            </div><!--//cover-holder-->
+                            
+                            
+                        </div><!--//item-inner-->
+                    </div><!--//item-->
+                    
+                    <div class="item col-xs-6 col-md-4">
+                        <div class="item-inner">
+                             <h3 class="album-title">
+                            *insert title here*
+                            </h3>
+                            <div class="cover-holder">
+                                
+                                <a class="cover-figure" href="#">
+                                    <div class="record-holder"><img class="img-responsive" src="assets/images/record.png" alt=""></div>
+                                    <img class="cover-image img-responsive" src="assets/images/albums/album-cover-5.jpg" alt="">
+                                </a><!--//cover-figure-->
+
+                                <a href="#" class="btn btn-sm btn-secondary">Buy Album</a>
+                               
+                            </div><!--//cover-holder-->
+                            
+                            
+                        </div><!--//item-inner-->
+                    </div><!--//item-->
+                    
+                    <div class="item col-xs-6 col-md-4">
+                        <div class="item-inner">
+                             <h3 class="album-title">
+                            Im out of names 
+                            </h3>
+                            <div class="cover-holder">
+                                
+                                <a class="cover-figure" href="#">
+                                    <div class="record-holder"><img class="img-responsive" src="assets/images/record.png" alt=""></div>
+                                    <img class="cover-image img-responsive" src="assets/images/albums/album-cover-6.jpg" alt="">
+                                </a><!--//cover-figure-->
+
+                                <a href="#" class="btn btn-sm btn-secondary">Buy Album</a>
+                               
+                            </div><!--//cover-holder-->
+                            
+                            
+                        </div><!--//item-inner-->
+                    </div><!--//item-->
+
+                    <div class="item col-xs-6 col-md-4">
+                        <div class="item-inner">
+                             <h3 class="album-title">
+                            Amazing Dr Cyanide remixes
+                            </h3>
+                            <div class="cover-holder">
+                                
+                                <a class="cover-figure" href="#">
+                                    <div class="record-holder"><img class="img-responsive" src="assets/images/record.png" alt=""></div>
+                                    <img class="cover-image img-responsive" src="assets/images/albums/album-cover-3.jpg" alt="">
+                                </a><!--//cover-figure-->
+
+                                <a href="#" class="btn btn-sm btn-secondary">Buy Album</a>
+                               
+                            </div><!--//cover-holder-->
+                            
+                            
+                        </div><!--//item-inner-->
+                    </div><!--//item-->
+
+                    div class="item col-xs-6 col-md-4">
+                        <div class="item-inner">
+                             <h3 class="album-title">
+                            </h3>
+                                                   
+                            
+                        </div><!--//item-inner-->
+                    </div><!--//item-->
+                    
+
+                    <section id="merch" class="merch-section section text-center">
+        <div class="container">
+            <h2 class="section-title">Merch Store</h2>
+            <div class="row">
+                <div class="item col-xs-12 col-sm-6">
+                    <div class="item-inner">
+                        <img class="img-responsive" src="assets/images/merch/merch-1.jpg" alt="">
+                        <a class="mask" href="#">
+                            <span class="mask-inner">
+                                <span class="item-title">Band T-Shirt €16</span>
+                                <span class="desc">Nothing to do with the band in any way but sure its fashion so you will wear it anyways.</span>
+                                <span class="btn btn-primary btn-cta">Buy Now</span>
+                            </span>
+                        </a>
+                    </div><!--//item-inner-->
+                </div>
+                <div class="item col-xs-12 col-sm-6">
+                    <div class="item-inner">
+                        <img class="img-responsive" src="assets/images/merch/merch-2.jpg" alt="">
+                        <a class="mask" href="#">
+                            <span class="mask-inner">
+                                <span class="item-title">Band T-Shirt €16</span>
+                                <span class="desc">Has a more "musical" feel. Missing the band logo but getting there.</span>
+                                <span class="btn btn-primary btn-cta">Buy Now</span>
+                            </span>
+                        </a>
+                    </div><!--//item-inner-->
+                </div>
+                <div class="item col-xs-12 col-sm-6">
+                    <div class="item-inner">
+                        <img class="img-responsive" src="assets/images/merch/merch-3.jpg" alt="">
+                        <a class="mask" href="#">
+                            <span class="mask-inner">
+                                <span class="item-title">Band Hoody €26.99 (damien touch €5 extra)</span>
+                                <span class="desc">Fashion comes at a price... this price is 26.99. It touched damiens hand so it has added value</span>
+                                <span class="btn btn-primary btn-cta">Buy Now</span>
+                            </span>
+                        </a>
+                    </div>
+                </div>
+                <div class="item col-xs-12 col-sm-6">
+                    <div class="item-inner">
+                         <img class="img-responsive" src="assets/images/merch/merch-4.jpg" alt="">
+                         <a class="mask" href="#">
+                            <span class="mask-inner">
+                                <span class="item-title">Band Tote Bag €8</span>
+                                <span class="desc">Need somewhere to store your merch, drugs or festival contraband? Then look no further</span>
+                                <span class="btn btn-primary btn-cta">Buy Now</span>
+                            </span>
+                        </a>
+                    </div>
+                </div>
+            </div><!--//row-->
+            
+            <div class="merch-action">
+                <a class="btn btn-ghost-primary" href="#">View All Items</a>
+            </div>
+            
+        </div><!--//container-->
+        
+    </section><!--//merch-section-->
